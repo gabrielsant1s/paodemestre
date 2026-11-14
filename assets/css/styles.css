@@ -1383,7 +1383,7 @@ footer p,footer>a:last-child {
 .icon-arrow { width: 16px; height: 16px; }
 .icon-camera { width: 17px; height: 17px; margin-left: 2px; }
 .icon-sparkle { width: 34px; height: 34px; fill: currentColor; stroke: none; }
-.ribbon-separator { width: 15px; height: 15px; fill: var(--brown); flex: 0 0 auto; }
+.ribbon-separator { width: 15px; height: 15px; fill: var(--brown); flex: 0 0 auto; overflow: visible; }
 .icon-bread, .icon-cake { width: 30px; height: 30px; color: var(--gold); }
 .icon-bread path:first-child, .icon-cake path:first-child { fill: rgba(249,168,25,.12); }
 .icon-pin { width: 17px; height: 17px; color: var(--gold); }
